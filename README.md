@@ -1,4 +1,4 @@
-### 👋 Olá, mundo! Eu sou a Nathalya Cidreira
+### 👋 Olá, mundo! Eu sou Nathalya Cidreira, ou Nathy.
 
 💻 Front-end Developer | Líder de Equipe  
 🚀 Typescript | Angular 16+ | SCSS | CSS | HTML5 | JavaScript  
