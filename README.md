@@ -1,10 +1,10 @@
 ### 👋 Olá, mundo! Eu sou Nathalya Cidreira, ou Nathy.
 
-💻 FullStack Developer
+- 💻 FullStack Developer
 
-🚀 Typescript | NodeJS | NestJS | MongoDB | Angular 15+ | SCSS | CSS | HTML5 | JavaScript
+- 🚀 Typescript | NodeJS | NestJS | MongoDB | Angular 15+ | SCSS | CSS | HTML5 | JavaScript
 
-🎮 Gamer de carteirinha  
+- 🎮 Gamer de carteirinha  
 
 Atuo ativamente no ecossistema corporativo pelo perfil [@nathalya-epg](https://github.com/nathalya-epg)
 
